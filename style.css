@@ -1,0 +1,16 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: rgb(168, 157, 157);
+}
+
+#Container{
+  width: 80%;
+  margin: 0px auto;
+  box-shadow: 0px 0px 10px red;
+  /*border: 1px solid rgb(59, 214, 59); */
+}
